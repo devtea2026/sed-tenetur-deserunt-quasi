@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/sed-tenetur-deserunt-quasi",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -830,5 +830,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/sed-tenetur-deserunt-quasi/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
